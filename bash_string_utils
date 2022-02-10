@@ -1,0 +1,16 @@
+function rtrim() {
+  sed -e's/[[:space:]]*$//'
+}
+
+function ltrim() {
+  sed -e's/[[:space:]]*$//'
+}
+
+function trim() {
+  sed -e's/[[:space:]]*$//'
+}
+
+function preg_match() {
+
+}
+
